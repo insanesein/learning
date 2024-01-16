@@ -8,7 +8,7 @@ Cybersecurity
 
 
 
-31 Jan 2024 | Administering Information Protection and Compliance in Microsoft 365<p>
+31 Jan 2024 | Administering Information Protection and Compliance in Microsoft 365<a>
 20 Nov 2023 | Women In Cybersecurity Graduation Ceremony @Microsoft Netherlands
 
 20 Oct 2023 | Microsoft Certified: Security, Compliance, and Identity Fundamentals
