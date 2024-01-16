@@ -1,4 +1,4 @@
-# SC-400 Certificate
+# 
 
 - Day 1
     
