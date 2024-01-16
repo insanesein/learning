@@ -8,5 +8,5 @@ what I'm currently learning
 
 20 Nov 2023 | Women In Cybersecurity Graduation Ceremony @Microsoft Netherlands
 
-20 Oct 2023 | Microsoft Certified: Security, Compliance, and Identity Fundamentals<p>
+20 Oct 2023 | Microsoft Certified: Security, Compliance, and Identity Fundamentals
 30 Aug 2023 | Women In Cybersecurity @Microsoft
